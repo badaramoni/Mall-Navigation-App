@@ -115,9 +115,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 - UI powered by [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
 - Navigation algorithms inspired by standard pathfinding techniques
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/mall-navigation-app](https://github.com/yourusername/mall-navigation-app)
