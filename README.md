@@ -2,6 +2,8 @@
 
 A cross-platform mobile application built with Kotlin Multiplatform and Compose Multiplatform that helps users navigate through shopping malls. The app provides an interactive map interface with real-time navigation instructions between shops.
 
+
+https://github.com/user-attachments/assets/da52a209-08a7-466e-a11a-8a1080100fcd
 ## Features
 
 - 🗺️ Interactive Mall Map
